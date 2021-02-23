@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-lion red
-=======
 lion blue
->>>>>>> 0a891761e6180d75aa71bdeec74de59ab85529c6
 tiger
 leopard
 turtle
